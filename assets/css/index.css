@@ -1,0 +1,17 @@
+.color{
+    background-color: rgb(25, 142, 196);
+    
+}
+
+.title{
+    margin-left: 100px;
+}
+.footer{
+    margin-left: 70px;
+}
+.centre {margin-left: 100px;
+        width: 120%;}
+
+.footer{
+    font:Impact, fantasy;
+}
